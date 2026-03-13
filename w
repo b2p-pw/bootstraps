@@ -1,1 +1,1 @@
-$a = $args -join ' '; iex "& { $(irm 'https://b2p.pw/bootstraps/windows/latest/boot.ps1') } $a"
+$a = $args -join ' '; iex "& { $(irm 'https://raw.githubusercontent.com/b2p-pw/bootstraps/main/windows/boot.ps1') } $a"
