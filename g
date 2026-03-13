@@ -1,1 +1,1 @@
-curl -fsSL "https://b2p.pw/r/linux/latest/boot.sh" | sh -s -- "$@"
+curl -fsSL "https://b2p.pw/bootstraps/linux/latest/boot.sh" | sh -s -- "$@"
